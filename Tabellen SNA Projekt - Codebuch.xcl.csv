@@ -1,0 +1,54 @@
+Code Nodes;;;Codes Edge;;;;Akteure:;Agent*innen
+sex;1= female;;Art der Beziehung;;"1=wurde beauftragt von 
+2=spioniert wen aus 
+3= verheiratet";;;Spionageland
+;2=male;;;;4= Affäre miteinander;;;
+;3= keine Information/ nicht relevant;;;;5= verraten;;;
+;;;;;6= kooperiert;;;
+Auftraggeberland;1= DDR;;;;7=wurden miteinander ausgetauscht und an Länder zurückgegeben;;;
+;2= BRD;;;;;;;
+;3=UDSSR;;Zeitpunkt der Beziehung;;;;;
+;4= USA;;;;;;;
+;5= Groß-Britannien;;;;;;;
+;6=nicht relevant/keine Information;;;;;;;
+;;;;;;;;
+Zielland;1=DDR;;;;;;;
+;2=BRD;;;;;;;
+;3=UDSSR;;;;;;;
+;4=USA;;;;;;;
+;5=Großbritannien;;;;;;;
+;6=keine Information/ nicht relevant;;;;;;;
+;;;;;;;;
+Organisation;"1= KGB
+2= CIA
+3= MI6
+4= BND";;;;;;;
+;5=keine Information/ nicht relevant;;;;;;;
+;;;;;;;;
+Folgen;1= keine;;;;;;;
+;2= Hinrichtung;;;;;;;
+;3= Haftstrafe;;;;;;;
+;4=Selbstmord/Verstorben;;;;;;;
+;5= nicht relevant/keine Information;;;;;;;
+;;;;;;;;
+Zeitraum ;1= Beginn Kalter Krieg, ab 1945;1945-1965;;;;;;
+;2= Mitte Kalter Krieg 1970;1965-1975;;;;;;
+;3= Ende Kalter Krieg 1985;1975-1989;;;;;;
+;4=keine Information/ nicht relevant;;;;;;;
+;;;;;;;;
+Besonderheiten;1= Spionagepaar;;;;;;;
+;2= Doppelagent;;;;;;;
+;3=Agent:in wusste nicht über eigentliches Auftraggeberland bescheid;;;;;;;
+;4=keine Information/ nicht relevant;;;;;;;
+;;;;;;;;
+Spionageziel;1=Daten-/Informationsweitergabe;;;;;;;
+;2=Waffenweitergabe;;;;;;;
+;3=Verrat;;;;;;;
+;4=Personenüberwachung;;;;;;;
+;5=Einflussnahme auf politische Entscheidungen;;;;;;;
+;6=keine Information/nicht relevant;;;;;;;
+;;;;;;;;
+Art des Nodes;1=Spion:in;;;;;;;
+;2=Land;;;;;;;
+;;;;;;;;
+age (nach Geburtsjahr);;;;;;;;
