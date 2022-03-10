@@ -71,7 +71,10 @@ zweiter Abschluss
 2=Fachhochschulreife	  
 3=Hochschulabschluss	  
 4=Universitätsabschluss 	      
-5= kein 2. Abschluss      	
+5= kein 
+
+
+2. Abschluss        	
 
 dritter Abschluss     
 1= Abitur	   
@@ -98,10 +101,10 @@ Fachrichtung
 3= Medizin	   
 4= Medien & Marketing	   
 5= Soziales	     
-6 = Rechtswissenschaften      
-7=Beamter(Verwaltung)	   
-8=Politikwissenschaften	    
-9 = Wirtschaft	    
+6= Rechtswissenschaften      
+7= Beamter(Verwaltung)	   
+8= Politikwissenschaften	    
+9= Wirtschaft	    
 10= Militär	    
 
 
