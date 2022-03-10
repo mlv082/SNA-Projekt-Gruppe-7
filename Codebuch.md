@@ -13,66 +13,65 @@ Der Datensatz unter den Abgeordneten des Bundestages kommend aus Baden-Württemb
 Das Netzwerk ist ein *ungerichtetes two-mode Akteurs-Einrichtungsnetzwerk*.
 
 
-Nodes
+##Nodes
 
-sex
-1=female	
-2=male	
-3=keine Information/ nicht relevant	
-
-type
-1=Einrichtung
-2=Person
-
-party
-1=CDU/CSU
-2=SPD
-3=Grüne
+sex     
+1=female	   
+2=male	    
+3=keine Information/ nicht relevant	   
 
 
-Herkunft Bundesland
+type      
+1=Einrichtung       
+2=Person      
 
-1=Bayern
-2=Baden-Württemberg
-3=Rheinland-Pfalz
-4=Saarland
-5=Hessen
-6=Thüringen
-7= Sachsen
-8=Nordrhein-Westfalen
-9=Sachsen-Anhalt
-10= Niedersachsen
-11= Brandenburg
-12= Schleswig-Holstein
-13=Mecklenburg-Vorpommern
-14=Bremen
-15=Hamburg
-16=Berlin
-
-Historie Bundesland
-1=BRD
-2=DDR
+party      
+1=CDU/CSU      
+2=SPD     
+3=Grüne     
 
 
-Alter
-1= 18-25
-2= 26-50
-3= 51-99
+Herkunft Bundesland    
+
+1=Bayern       
+2=Baden-Württemberg       
+3=Rheinland-Pfalz       
+4=Saarland       
+5=Hessen        
+6=Thüringen      
+7= Sachsen      
+8=Nordrhein-Westfalen     
+9=Sachsen-Anhalt      
+10= Niedersachsen      
+11= Brandenburg     
+12= Schleswig-Holstein      
+13=Mecklenburg-Vorpommern         
+14=Bremen        
+15=Hamburg         
+16=Berlin        
+
+Historie Bundesland          
+1=BRD       
+2=DDR        
 
 
+Alter        
+1= 18-25       
+2= 26-50      
+3= 51-99         
 
-erster Abschluss
-1= Realschulabschluss	
-2=Abitur	
-3=Hochschulabschluss	
-4=Universitätsabschluss	
+erster Abschluss        
+1= Realschulabschluss	    
+2=Abitur	  
+3=Hochschulabschluss	  
+4=Universitätsabschluss	       
 
-zweiter Abschluss
-1= Abitur	
-2=Fachhochschulreife	
-3=Hochschulabschluss	
-4=Universitätsabschluss	
-5= kein 2. Abschluss	
+zweiter Abschluss        
+1= Abitur	    
+2=Fachhochschulreife	  
+3=Hochschulabschluss	  
+4=Universitätsabschluss 	      
+5= kein 2. Abschluss      	
 
 dritter Abschluss
 1= Abitur	
@@ -127,8 +126,7 @@ Country
 
 
 
-Edges
-
+##Edges
 
 from	Bundestagsabgeordneter				
 to	Bildungseinrichtung
