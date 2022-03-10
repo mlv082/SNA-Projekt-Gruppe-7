@@ -73,76 +73,79 @@ zweiter Abschluss
 4=Universitätsabschluss 	      
 5= kein 2. Abschluss      	
 
-dritter Abschluss
-1= Abitur	
-2=Fachhochschulreife	
+dritter Abschluss     
+1= Abitur	   
+2=Fachhochschulreife	  
 3=Hochschulabschluss	
 4=Universitätsabschluss	
-5= kein 3. Abschluss	
+5= kein 3. Abschluss	  
 
-Praktiker
-1=ja
-2=nein
+Praktiker         
+1=ja      
+2=nein      
 
-Hochschulabschluss
-0=kein Hochschulabschluss
-1=Bachelor
-2=Master
-3= Promotion
-4= Professur
-5 = Staatsexamen
+Hochschulabschluss      
+0=kein Hochschulabschluss      
+1=Bachelor     
+2=Master      
+3= Promotion        
+4= Professur        
+5 = Staatsexamen         
 
-Fachrichtung
-1= Technik	
-2= Naturwissenschaften	
-3= Medizin	
-4= Medien & Marketing	
-5= Soziales	
-6 = Rechtswissenschaften
-7=Beamter(Verwaltung)	
-8=Politikwissenschaften	
-9 = Wirtschaft	
-10= Militär	
-
-
-Typ Einrichtung
-1= Hochschule	
-2= Universität	
-3= Berufsausbildung/Job	
-4=Förderprogramm	
-
-Ranking Einrichtung
-1= ja
-2= nein
-
-Zugehörigkeit
-1=staatlich
-2=privat
-3=kirchlich
-
-Country
-1= Deutschland
-2 = nicht DE
+Fachrichtung    
+1= Technik	   
+2= Naturwissenschaften	   
+3= Medizin	   
+4= Medien & Marketing	   
+5= Soziales	     
+6 = Rechtswissenschaften      
+7=Beamter(Verwaltung)	   
+8=Politikwissenschaften	    
+9 = Wirtschaft	    
+10= Militär	    
 
 
+Typ Einrichtung      
+1= Hochschule	  
+2= Universität	  
+3= Berufsausbildung/Job	    
+4=Förderprogramm	    
 
-##Edges
+Ranking Einrichtung      
+1= ja     
+2= nein      
 
-from	Bundestagsabgeordneter				
-to	Bildungseinrichtung
-    Förderprogramm		
-    Jobstation
+Zugehörigkeit      
+1=staatlich    
+2=privat     
+3=kirchlich   
+
+Country     
+1= Deutschland     
+2 = nicht DE     
+
+
+
+##Edges      
+from	
+
+Bundestagsabgeordneter	   
+
+to	   
+Bildungseinrichtung    
+    Förderprogramm	      	
+    Jobstation      
     
     
-weight
-1= 2 Jahre
-2= 3-4 Jahre
-3= 5-10 Jahre
+weight       
+1= 2 Jahre     
+2= 3-4 Jahre      
+3= 5-10 Jahre       
 
-relation
-1= Ausbildung
-2= Job
-3= Förderung
+relation     
+1= Ausbildung      
+2= Job      
+3= Förderung      
 
 
 
