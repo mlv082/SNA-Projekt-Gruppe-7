@@ -52,7 +52,7 @@ id;Name;Sex;Typ;Partei;Herkunft;Alter;erster_Abschluss;zweiter_Abschluss;dritter
 51;Staatsanwaltschaft_Stuttgart;;1;;;;;;;;;;;3;1;1;1
 52;Regierungspräsidium_Stuttgart;;1;;;;;;;;;;;3;2;1;1
 53;Ernst_und_Young;;1;;;;;;;;;;;3;2;2;1
-54;Zivildienst -DRK_KV_Böblingen;;1;;;;;;;;;;;3;2;2;1
+54;Zivildienst-DRK_KV_Böblingen;;1;;;;;;;;;;;3;2;2;1
 55;Universität_Stuttgart;;1;;;;;;;;;;;1;2;1;1
 56;Daimler_AG;;1;;;;;;;;;;;3;1;2;1
 57;Stadt_Sindelfingen;;1;;;;;;;;;;;3;2;1;1
@@ -66,12 +66,12 @@ id;Name;Sex;Typ;Partei;Herkunft;Alter;erster_Abschluss;zweiter_Abschluss;dritter
 65;Universität_Passau;;1;;;;;;;;;;;1;2;1;1
 66;Rheinische_Friedrich-Wilhelms-Universität_Bonn;;1;;;;;;;;;;;1;2;1;1
 67;Uni_Rostock;;1;;;;;;;;;;;3;2;1;1
-68;Fachschule _für_Landwirtschaft;;1;;;;;;;;;;;3;2;1;1
+68;Fachschule_für_Landwirtschaft;;1;;;;;;;;;;;3;2;1;1
 69;Familienbetrieb_Färber;;1;;;;;;;;;;;3;2;1;1
 70;Stadtverwaltung_Waiblingen;;1;;;;;;;;;;;3;2;1;1
 71;Kaufmännische_Schule_Backnang;;1;;;;;;;;;;;3;2;1;1
 72;Hochschule_für_öffentliche_Verwaltung_und_Finanzen_Ludwigsburg;;1;;;;;;;;;;;3;2;1;1
-73;Ministerium _für_Finanzen_und_Wirtschaft_BaWü;;1;;;;;;;;;;;3;1;1;1
+73;Ministerium_für_Finanzen_und_Wirtschaft_BaWü;;1;;;;;;;;;;;3;1;1;1
 74;Jugendzentrum_Reutlingen;;1;;;;;;;;;;;3;2;1;1
 75;Reutlinger_General_Anzeiger;;1;;;;;;;;;;;3;2;2;1
 76;Young_Leader_Programm_American_Council_on_Germany;;1;;;;;;;;;;;4;1;2;2
@@ -92,7 +92,7 @@ id;Name;Sex;Typ;Partei;Herkunft;Alter;erster_Abschluss;zweiter_Abschluss;dritter
 91;Landgericht_Ravensburg;;1;;;;;;;;;;;3;2;1;1
 92;Oberlandesgericht_Stuttgart;;1;;;;;;;;;;;3;1;1;1
 93;Amtsgericht_Tettnang;;1;;;;;;;;;;;3;2;1;1
-94;Zentrum _für_Konfliktmanagement_der_Universität_Tübingen;;1;;;;;;;;;;;3;2;1;1
+94;Zentrum_für_Konfliktmanagement_der_Universität_Tübingen;;1;;;;;;;;;;;3;2;1;1
 95;Luftwaffe_Meßstetten;;1;;;;;;;;;;;3;1;1;1
 96;Berufsakademie_Ravensburg;;1;;;;;;;;;;;3;2;1;1
 97;Izmir_Tuerkei;;1;;;;;;;;;;;3;2;1;2
@@ -130,11 +130,11 @@ id;Name;Sex;Typ;Partei;Herkunft;Alter;erster_Abschluss;zweiter_Abschluss;dritter
 129;Stetten_Bau_GmbH;;1;;;;;;;;;;;3;2;2;1
 130;Technologie_Holding_Christian_Stetten_GmbH;;1;;;;;;;;;;;3;2;2;1
 131;Augsburger_Allgemeinen_Zeitung;;1;;;;;;;;;;;3;2;2;1
-132;Institut_d'Etudes_Politiques;;1;;;;;;;;;;;2;1;1;2
+132;Institut_d_Etudes_Politiques;;1;;;;;;;;;;;2;1;1;2
 133;Konrad-Adenauer-Haus;;1;;;;;;;;;;;3;2;2;1
 134;Freie_Universität_Berlin;;1;;;;;;;;;;;2;1;1;1
 135;Universität_der_Bundeswehr_München;;1;;;;;;;;;;;2;2;1;1
-136;University_of _Texas;;1;;;;;;;;;;;2;1;1;2
+136;University_of_Texas;;1;;;;;;;;;;;2;1;1;2
 137;Bundeswehr_Sonderhausen;;1;;;;;;;;;;;3;2;1;1
 138;Bundeswehr_Duesseldorf;;1;;;;;;;;;;;3;2;1;1
 139;Fuehrungsakademie_der_Bundeswehr_Hamburg;;1;;;;;;;;;;;2;1;1;1
