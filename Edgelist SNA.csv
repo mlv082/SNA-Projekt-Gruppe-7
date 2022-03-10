@@ -1,4 +1,4 @@
-from,to,weight,relation
+from;to;weight;relation
 1;39;3;1
 8;40;3;1
 21;41;3;1
