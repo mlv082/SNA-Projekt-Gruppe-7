@@ -1,4 +1,4 @@
-id,Name,sex,type,party,Herkunft,age,erster_Abschluss,zweiter_Abschluss,dritter_Abschluss,Uniabschluss,Praktiker,Fachrichtung,Historie Bundesland,Typ_Einrichtung,Ranking,Zugehörigkeit,Land
+id,name,sex,type,party,Herkunft,age,erster_Abschluss,zweiter_Abschluss,dritter_Abschluss,Uniabschluss,Praktiker,Fachrichtung,Historie Bundesland,Typ_Einrichtung,Ranking,Zugehörigkeit,Land
 1,"Oezdemir,Cem",2,2,3,2,3,1,2,3,1,1,5,1,,,,
 2,"Moerseburg,Maximilian",2,2,1,2,2,2,3,5,5,1,6,1,,,,
 3,"Biadacz,Marc",2,2,1,2,2,2,3,5,1,1,8,1,,,,
