@@ -21,7 +21,7 @@ sex
 3=keine Information/ nicht relevant	   
 
 
-type      
+type
 1=Einrichtung       
 2=Person      
 
@@ -55,7 +55,7 @@ Historie Bundesland
 2=DDR        
 
 
-Alter        
+age      
 1= 18-25       
 2= 26-50      
 3= 51-99         
@@ -71,10 +71,7 @@ zweiter Abschluss
 2=Fachhochschulreife	  
 3=Hochschulabschluss	  
 4=Universitätsabschluss 	      
-5= kein 
-
-
-2. Abschluss        	
+5= kein         	
 
 dritter Abschluss     
 1= Abitur	   
